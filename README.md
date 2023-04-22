@@ -70,7 +70,12 @@ plt.show()
 
 ![Screenshot 2023-04-22 085531](https://user-images.githubusercontent.com/120567837/233760444-906f00fc-7dc9-42c9-a755-6f444c5d4ffb.png)
 
-![Screenshot 2023-04-22 085604](https://user-images.githubusercontent.com/120567837/233760528-d0aede9b-cb14-4755-baee-88f35b299b62.png)
+
+
+![Screenshot 2023-04-22 085604](https://user-images.githubusercontent.com/120567837/233760528-!
+
+[Screenshot 2023-04-22 092058](https://user-images.githubusercontent.com/120567837/233760776-5469705c-c822-4e1f-952c-8fe9d7ad0b5e.png)
+
 
 
 
