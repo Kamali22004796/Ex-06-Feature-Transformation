@@ -74,9 +74,9 @@ plt.show()
 
 [Screenshot 2023-04-22 092058](https://user-images.githubusercontent.com/120567837/233760776-5469705c-c822-4e1f-952c-8fe9d7ad0b5e.png)
 
-![Screenshot 2023-04-22 085620](https://user-images.githubusercontent.com/120567837/233760873-6daed830-e749-4c11-ab70-61c9d2c732d5.png)
+![Screenshot 2023-04-22 085604](https://user-images.githubusercontent.com/120567837/233761313-fe44a0bf-f5ea-4db0-952d-d6823674c671.png)
 
-![Screenshot 2023-04-22 085604](https://user-images.githubusercontent.com/120567837/233761247-faf85a75-1037-4808-ac98-d966d97889ed.png)
+![Screenshot 2023-04-22 085620](https://user-images.githubusercontent.com/120567837/233760873-6daed830-e749-4c11-ab70-61c9d2c732d5.png)
 
 ![Screenshot 2023-04-22 092621](https://user-images.githubusercontent.com/120567837/233761010-6e36c480-bbbe-4538-b231-5a80824d7e81.png)
 
