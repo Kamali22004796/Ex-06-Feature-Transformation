@@ -64,6 +64,15 @@ plt.show()
 
 ![Screenshot 2023-04-22 085424](https://user-images.githubusercontent.com/120567837/233759752-26930bf5-5ed9-406f-a945-cdcc223eed40.png)
 
+![Screenshot 2023-04-22 085531](https://user-images.githubusercontent.com/120567837/233760285-1680e6e1-1959-44d4-9b58-92793604cb53.png)
+
+![Screenshot 2023-04-22 085504](https://user-images.githubusercontent.com/120567837/233760340-a39ec9f9-730f-41e5-9469-255d72614a09.png)
+
+![Screenshot 2023-04-22 085531](https://user-images.githubusercontent.com/120567837/233760444-906f00fc-7dc9-42c9-a755-6f444c5d4ffb.png)
+
+![Screenshot 2023-04-22 085604](https://user-images.githubusercontent.com/120567837/233760528-d0aede9b-cb14-4755-baee-88f35b299b62.png)
+
+
 
 
 
