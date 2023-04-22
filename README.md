@@ -59,5 +59,20 @@ sm.qqplot(df.ModerateNegativeSkew_2,fit=True,line='45')
 plt.show()
 ~~~
 
+# Output:
+![Screenshot 2023-04-21 114930](https://user-images.githubusercontent.com/120567837/233759699-3ac1e8f8-8bb6-48f2-b008-89f7278a42f7.png)
+
+![Screenshot 2023-04-22 085424](https://user-images.githubusercontent.com/120567837/233759752-26930bf5-5ed9-406f-a945-cdcc223eed40.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
