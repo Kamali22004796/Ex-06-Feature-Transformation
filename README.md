@@ -70,11 +70,23 @@ plt.show()
 
 ![Screenshot 2023-04-22 085531](https://user-images.githubusercontent.com/120567837/233760444-906f00fc-7dc9-42c9-a755-6f444c5d4ffb.png)
 
-
-
-![Screenshot 2023-04-22 085604](https://user-images.githubusercontent.com/120567837/233760528-!
+![Screenshot 2023-04-22 092058](https://user-images.githubusercontent.com/120567837/233760837-2abaf290-800b-45b5-b96a-d21786391f27.png)
 
 [Screenshot 2023-04-22 092058](https://user-images.githubusercontent.com/120567837/233760776-5469705c-c822-4e1f-952c-8fe9d7ad0b5e.png)
+
+![Screenshot 2023-04-22 085620](https://user-images.githubusercontent.com/120567837/233760873-6daed830-e749-4c11-ab70-61c9d2c732d5.png)
+
+![Screenshot 2023-04-22 092621](https://user-images.githubusercontent.com/120567837/233761010-6e36c480-bbbe-4538-b231-5a80824d7e81.png)
+
+![Screenshot 2023-04-22 085643](https://user-images.githubusercontent.com/120567837/233760934-76363606-d737-4393-8eef-a869711d86a2.png)
+
+![Screenshot 2023-04-22 092730](https://user-images.githubusercontent.com/120567837/233761081-81f453f1-d548-4be3-b670-9e3e5b0ce9d7.png)
+
+# RESULT:
+Thus the Feature Transformation for the given datasets had been executed successfully
+
+
+
 
 
 
